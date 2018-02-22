@@ -1,0 +1,17 @@
+# Testing
+pytest
+pytest-cov
+pytest-greendots
+pytest-flask
+pytest-watch
+hypothesis
+freezegun
+requests-mock
+
+# Linting
+flake8
+flake8-docstrings
+flake8-print
+flake8-commas
+flake8-bugbear
+flake8-string-format
